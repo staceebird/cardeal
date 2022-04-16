@@ -1,7 +1,8 @@
 
 // MY THEME COLORS
-$main: #0000ff;
-$dark-blue: rgb(0, 0, 90);
+$pink: #FFB6C1;
+$teal: #008080;
+$light-pink: #FFECEF;
 
 $white:    #fff;
 $gray-100: #f8f9fa;
@@ -15,11 +16,12 @@ $gray-800: #343a40;
 $gray-900: #212529;
 $black:    #000;
 
-$primary: $main;
-$light: $gray-200;
+$primary: $pink;
+$secondary: $teal;
+$light: $gray-500;
 $dark: $gray-600;
-$gradient: linear-gradient(to right, $primary 40%, $dark-blue);
-$linstep: linear-gradient(to left, $gray-400 40%, $dark-blue);
+$gradient: linear-gradient(to right, $primary 40%, $teal);
+$linstep: linear-gradient(to left, $gray-400 40%, $teal);
 
 
 // IMPORT BOOTSTRAP
