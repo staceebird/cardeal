@@ -161,6 +161,10 @@ hr.head-rule {
 footer {
   background-color: $gray-500;
 
+  li {
+    border: none !important;
+  }
+
   .list-group-item {
     background-color: $gray-500;
 

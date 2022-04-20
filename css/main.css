@@ -12111,6 +12111,10 @@ footer {
   background-color: #adb5bd;
 }
 
+footer li {
+  border: none !important;
+}
+
 footer .list-group-item {
   background-color: #adb5bd;
 }
